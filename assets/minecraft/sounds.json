@@ -1,0 +1,25 @@
+{
+	"entity.zombie.death": {
+		"replace": true,
+		"sounds": [
+			"mob/zombie/death1",
+			"mob/zombie/death2",
+			"mob/zombie/death3"
+		]
+	},
+	"entity.zombie.hurt": {
+		"replace": true,
+		"sounds": [
+			"mob/zombie/hurt1"
+		]
+	},
+	"entity.zombie.ambient": {
+		"replace": true,
+		"sounds": [
+			"mob/zombie/say1",
+			"mob/zombie/say2",
+			"mob/zombie/say3",
+			"mob/zombie/say4"
+		]
+	}
+}
